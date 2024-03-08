@@ -18,7 +18,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",
-      "value": "Maher Zubair"
+      "value": "SILENT"
     },
     "THUMB_IMAGE": {
       "description": "THUMBNAIL Image for bot.",
@@ -26,12 +26,12 @@
     },
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "f7fc3594-0dfe-4e79-99be-a7b2f0988468",
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "Put Your Heroku App Name Here. Same as Above",
-      "value": ""
+      "value": "silentsigma"
     },
     "ANTILINK_VALUES": {
       "description": "Put antilink values. IT will take action on below links , change according to your need",
@@ -41,7 +41,7 @@
     "ANTI_BAD_WORDS": {
       "description": "Add Anti Bad_Words. Change or add according to your need",
       "value": "Fuck,porn,sex,xxx,fucker,asshole,fuck you,fuck off",
-      "required": false
+      "required": true
     },
     "MSGS_IN_LOG": {
       "description": "Fill the value true if you want to see Messages in Console.",
@@ -55,11 +55,11 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot.",
-      "value": "."
+      "value": ","
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923466319114"
+      "value": "2348168855791"
     },
     "SESSION_ID": {
       "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://sessions.maher-zubair.tech"
@@ -79,26 +79,26 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "sɪɢᴍᴀ-ᴍᴅ",
+      "value": "Silent",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author Name.",
-      "value": "ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ",
+      "value": "sigma",
       "required": false
     },
     "MZTIT": {
       "description": "Add Your Title, One Word Will BE More Better And BeautiFul",
-      "value": "🅼♥︎❚❚♥︎🆉",
+      "value": "SILENT",
       "required": false
     },
     "TIME_ZONE": {
       "description": "Add Your TimeZone. make sure the timzone is correct/Otherwise you will have errors",
-      "value": "Asia/Karachi"
+      "value": "Africa/Lagos"
     },
     "BOT_NAME": {
       "description": "Add Your Own Bot Name",
-      "value": "sɪɢᴍᴀ-ᴍᴅ"
+      "value": "Silent"
     }
   },
   "addons": [
